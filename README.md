@@ -1,8 +1,43 @@
 Basic Hand Tracker made by me
 
-Coded using python and using the opencv and mediapipe libraries
+Coded using python and using the OpenCV and MediaPipe libraries
 
-```bash
-pip install opencv-python
-pip install mediapipe
-```
+## Requirements
+- Python 3.x
+- OpenCV
+- MediaPipe
+
+## Installation
+
+1. Download the repository:
+  ```bash
+  Download the file as a zip
+  ```
+
+2. Navigate to the directory:
+  ```bash
+  cd Basic-Hand-Tracker-main
+  ```
+
+3. Install the required dependencies
+  ```bash
+  pip install opencv-python
+  pip install mediapipe
+  ```
+
+
+## Usage
+
+1. Run the 'hand_tracking.py' script:
+   ```bash
+   python hand_tracking.py
+   ```
+
+2. Webcam will open up, and the application will start
+
+3. Press the 'q' key to exit the application
+
+## Contributing
+
+If you'd like to make some additions and/or contributions to this project, feel free make a pull request :D!
+
