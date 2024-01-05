@@ -1,6 +1,6 @@
-Basic Hand Tracker made by me
+Basic Hand Tracker.
 
-Coded using python and using the OpenCV and MediaPipe libraries
+Coded using Python and using the OpenCV and MediaPipe libraries
 
 ## Requirements
 - Python 3.x
