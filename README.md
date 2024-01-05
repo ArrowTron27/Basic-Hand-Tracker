@@ -10,13 +10,14 @@ Coded using python and using the OpenCV and MediaPipe libraries
 ## Installation
 
 1. Download the repository:
+  You can download as a zip or do:
   ```bash
-  Download the file as a zip
+  git clone https://github.com/ArrowTron27/Basic-Hand-Tracker.git
   ```
 
 2. Navigate to the directory:
   ```bash
-  cd Basic-Hand-Tracker-main
+  cd Basic-Hand-Tracker
   ```
 
 3. Install the required dependencies
