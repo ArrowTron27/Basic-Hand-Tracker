@@ -31,7 +31,7 @@ Coded using Python and using the OpenCV and MediaPipe libraries
 
 1. Run the 'hand_tracking.py' script:
    ```bash
-   python hand_tracking.py
+   python hand_tracker.py
    ```
 
 2. Webcam will open up, and the application will start
